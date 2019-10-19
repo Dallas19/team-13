@@ -1,5 +1,4 @@
-two login pages
-       Company         Student      
+two login pages : Company & Student      
 Data : Starts off blind
 Student uploads profile
 Company uploads profile
@@ -12,7 +11,9 @@ Company ranks students based on their profile
 Post Interview 
 95% satisifaction
 * rank by skills?
-
+* survey on level of satisfaction should be done before recieving job offers (ideally) 
+* satisifcation survey is about the experience with the application process, etc.
+---------------------------------------------------
 UI Design : Things to not forget
 - reference website layout
 - how does it connect to the match algo.
@@ -30,7 +31,7 @@ Focus : matching engine click button and now show interview schedule
 what would you like to know if you were them?
 how to represent data
 
-1. Show student & company mock up of ranking ?
+1. Show student & company mock up of ranking
 -input structure
 2. Matching process
 -result of interview process
@@ -38,8 +39,8 @@ how to represent data
 -are spots empty or filled up?
 -show stats
 
-at the moment:
-he will be displaying which students are getting what jobs
+At the moment work update:
+It will be displaying which students are getting what jobs
 
 wish list items:
 Wants a unique job identifier 
