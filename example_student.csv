@@ -1,3 +1,4 @@
-Student Name,Company 1,Position 1,Company 2,Position 2,Company 3,Position 3,Company 4,Position 4,Company 5,Position 5
-Doug Douglass,AT&T,IT,JPMorgan,Bank Teller
-John Johnson,AT&T,Marketing,AT&T,IT,Apple,Developer
+Student Name,Job ID #1,Job ID #2,Job ID #3,Job ID #4,Job ID #5
+Doug Douglass,0,3,4
+John Johnson,2
+Hugh Mungus,3,5,6,7
