@@ -2,8 +2,13 @@ import csv
 import pandas as pd
 # import numpy as np
 
+from pathlib import Path
+
 def firstMatchingAlgo():
-    with open("students.csv") as csvfile2:
+    PATH = str(Path(__file__).parent.absolute())
+    STUDENTS = PATH + "/User_Info_Generator/students.csv"
+
+    with open(STUDENTS) as csvfile2:
         readCSV2 = csv.reader(csvfile2, delimiter=',')
         rankDict = {}
         finalArr = []
