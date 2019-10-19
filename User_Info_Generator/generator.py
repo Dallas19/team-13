@@ -115,7 +115,7 @@ def populate_students():
         
         filewriter.writerow(["Student ID", "Student Name", "Job ID #1", "Job ID #2", "Job ID #3", "Job ID #4", "Job ID #5"])
 
-        for i in range(1000):
+        for i in range(2500):
             student = generate_student()
             position = select_positions_for_student(student["num_wanted"])
             filewriter.writerow([i, student["name"], position[0], position[1], position[2], position[3], position[4]])
@@ -138,6 +138,3 @@ def populate_jobs():
 
 populate_jobs()
 populate_students()
-
-# generate 1000 students
-# generate 500 job positions
