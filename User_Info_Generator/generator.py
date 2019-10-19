@@ -70,8 +70,8 @@ def generate_student():
     fList.close()
 
     # generate number of positions wanted (random int from 1 to 5)
-    # num_wanted = random.randint(1, 5)
-    num_wanted = 5
+    num_wanted = random.randint(1, 5)
+    # num_wanted = 5
 
     student = {"name" : f"{fname} {lname}", "num_wanted" : num_wanted}
 
@@ -81,7 +81,7 @@ def select_positions_for_student(num_wanted):
     job_arr = []
     for i in range(7):
         if i <= num_wanted:
-            job_id = random.randint(0,59)
+            job_id = random.randint(0,499)
             if job_id in job_arr:
                 i-=1
                 continue
@@ -116,7 +116,7 @@ def populate_students():
         
         filewriter.writerow(["Student ID", "Student Name", "Job ID #1", "Job ID #2", "Job ID #3", "Job ID #4", "Job ID #5"])
 
-        for i in range(2500):
+        for i in range(1000):
             student = generate_student()
             position = select_positions_for_student(student["num_wanted"])
             filewriter.writerow([i, student["name"], position[0], position[1], position[2], position[3], position[4]])
@@ -129,7 +129,7 @@ def populate_jobs():
 
         filewriter.writerow(["Job ID", "Company", "Position", "Number of Slots", "Student ID Rank #1", "Student ID Rank #2", "Student ID Rank #3", "Student ID Rank #4", "Student ID Rank #5", "Student ID Rank #6", "Student ID Rank #7", "Student ID Rank #8", "Student ID Rank #9", "Student ID Rank #10", "Student ID Rank #11", "Student ID Rank #12", "Student ID Rank #13", "Student ID Rank #14", "Student ID Rank #15"])
 
-        for i in range(60):
+        for i in range(500):
             job = generate_job()
             num_students = generate_num_top_students(job["num_slots"])
             ranked_students = rank_rand_students(num_students)
