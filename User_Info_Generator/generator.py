@@ -81,7 +81,7 @@ def select_positions_for_student(num_wanted):
     job_arr = []
     for i in range(7):
         if i <= num_wanted:
-            job_id = random.randint(0,499)
+            job_id = random.randint(0,59)
             if job_id in job_arr:
                 i-=1
                 continue
@@ -99,7 +99,7 @@ def rank_rand_students(num_available):
     student_arr = []
     for i in range(18):
         if i <= num_available:
-            student_id = random.randint(0,999)
+            student_id = random.randint(0,2499)
             if student_id in student_arr:
                 i-=1
                 continue
