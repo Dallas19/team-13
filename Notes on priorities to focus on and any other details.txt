@@ -1,0 +1,49 @@
+two login pages
+       Company         Student      
+Data : Starts off blind
+Student uploads profile
+Company uploads profile
+
+Pre Interview
+Student ranks interests 
+-jobs/companies/interests
+Company ranks students based on their profile
+
+Post Interview 
+95% satisifaction
+* rank by skills?
+
+UI Design : Things to not forget
+- reference website layout
+- how does it connect to the match algo.
+- depict results of matching
+  - allow choice to show results of diff algo 
+  - presc. for company
+  - how does co. know they have been declined
+  - student goes back into queue?
+This issue comes in due to this coming into waves.
+Don't forget to state assumptions when doing things and presenting. 
+Also reference how it can provide future/long term solutions
+
+
+Focus : matching engine click button and now show interview schedule
+what would you like to know if you were them?
+how to represent data
+
+1. Show student & company mock up of ranking ?
+-input structure
+2. Matching process
+-result of interview process
+-depiect schedule
+-are spots empty or filled up?
+-show stats
+
+at the moment:
+he will be displaying which students are getting what jobs
+
+wish list items:
+Wants a unique job identifier 
+think big like 100000000000000000000000 jobs
+No limit to UI Design -> Aim to give it a cleaned up look 
+
+
