@@ -1,0 +1,24 @@
+ A -- Front End UI 
+
+B -- Profile Creation:
+95% satisfaction rate needed
+500 companies in total
+2600 total to weed out 
+970 resumes in total (or there about)
+	C1) Students pick 5 jobs they want to interview w/ from company job descriptions
+Companies review resumes + interests Pick 1 - x students for interviews
+			b) CAN LEAVE BLANKS
+	Separate/Sort  Interviews  out by schools
+	C2) Schedule 6 15min interviews for two interviewers
+3 sessions of 6 interviews total
+Sessions are separated by schools
+	C3) Student rank job preferences 1-5 
+			Company ranks students as well
+			Check for matches on multiple levels
+	C4) Report
+			Output results
+			*Including student/company ranking
+
+C -- Intern/Company match
+D -- Intern Management
+
