@@ -99,7 +99,7 @@ def rank_rand_students(num_available):
     student_arr = []
     for i in range(18):
         if i <= num_available:
-            student_id = random.randint(0,2499)
+            student_id = random.randint(0,999)
             if student_id in student_arr:
                 i-=1
                 continue

@@ -1,6 +1,6 @@
 import csv
 import pandas as pd
-import numpy as np
+# import numpy as np
 
 def firstMatchingAlgo():
     with open("students.csv") as csvfile2:
