@@ -129,7 +129,7 @@ def populate_jobs():
 
         filewriter.writerow(["Job ID", "Company", "Position", "Number of Slots", "Student ID Rank #1", "Student ID Rank #2", "Student ID Rank #3", "Student ID Rank #4", "Student ID Rank #5", "Student ID Rank #6", "Student ID Rank #7", "Student ID Rank #8", "Student ID Rank #9", "Student ID Rank #10", "Student ID Rank #11", "Student ID Rank #12", "Student ID Rank #13", "Student ID Rank #14", "Student ID Rank #15"])
 
-        for i in range(500):
+        for i in range(60):
             job = generate_job()
             num_students = generate_num_top_students(job["num_slots"])
             ranked_students = rank_rand_students(num_students)
