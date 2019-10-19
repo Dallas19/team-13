@@ -1,6 +1,6 @@
 Job ID,Comapany,Position,Number Available,Student Rank #1,Student Rank #2,Student Rank #3,Student Rank #4,Student Rank #5,Student Rank #6,Student Rank #7
-0,AT&T,Marketing,4,Jeff Jefferson,John Johnson,Bob Bobson,Daniel Danison,Jakob Jakobson,Jack Jackson,Jefferson Thomas
-1,AT&T,IT,2,Matt Matheson,Michael Michaels,Doug Douglass
-2,JPMorgan,Bank Teller,2,Johnathan John,Macy Stewart,Mark Markette,Hugh Mungus
-3,Apple,Developer,1,Jeff Jefferson,Michael Michaels
-4,Google,Sales,3,Johnathan John,Mark Markette,Johnny Bravo,George Jungles,Jon Stevenson
+0,AT&T,Marketing,4,0,6,1,5,3,7,11
+1,AT&T,IT,2,3,5,6,7,10
+2,JPMorgan,Bank Teller,2,8,3,4,6
+3,Apple,Developer,1,11,9,4
+4,Google,Sales,3,7,9,22,10
