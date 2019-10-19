@@ -70,7 +70,8 @@ def generate_student():
     fList.close()
 
     # generate number of positions wanted (random int from 1 to 5)
-    num_wanted = random.randint(1, 5)
+    # num_wanted = random.randint(1, 5)
+    num_wanted = 5
 
     student = {"name" : f"{fname} {lname}", "num_wanted" : num_wanted}
 
@@ -96,7 +97,7 @@ def generate_num_top_students(min_num):
 
 def rank_rand_students(num_available):
     student_arr = []
-    for i in range(17):
+    for i in range(18):
         if i <= num_available:
             student_id = random.randint(0,999)
             if student_id in student_arr:
