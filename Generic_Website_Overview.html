@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: green;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<font color="white">
+  <h2>MAYOR'S INTERN FELLOW PROGRAM</h2>
+  <p>Youth Leadership empowered through community and internships</p>
+</div>
+
+<div class="topnav">
+  <a href="#"> Testimonials</a>
+  <a href="#"> Sponsors</a>
+  <a href="#"> Mission</a>
+  <a href="#"> Mayor Statement</a>
+  <a href="#" style="float:right">Apply</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+    <font color="Black">
+      <h2>Testimonials</h2>
+      <h5>Student experiences with our program and the impact of their internships </h5>
+      <img src = "https://mayorsinterns.org/images/slide/mifp-website-slide-1.jpg" >
+      <p>Some text..</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    </div>
+    <div class="card">
+      <h2>Sponsors</h2>
+      <h5>Interested in sponsorship opportunities, contact Angela Shellene at The Reeds PRC at ashllene@thereedsprc.com or call 214-871-0783 </h5>
+      <div class="img" style="height:200px;">Image</div>
+      <p>A Grand Thank you to our sponsors</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>Mission</h2>
+      <div class="img" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
+</p>
+    <div class="card">
+      <h3>Mayor Statement</h3>
+      <img src = https://mayorsinterns.org/2020/Eric-Johnson.png  >
+      <p> Some text... </p>
+     <div>
+    </div>
+   </div>
+
+    <div class="card">
+      <h3>Follow Us on Social Media</h3>
+      <p>Instagram : </p>
+      <p>Facebook : </p>
+      <p>LinkedIn : </p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Copyright-Education is Freedom, 2007.All rights reserved</p>
+</div>
+
+</body>
+</html>

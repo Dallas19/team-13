@@ -113,10 +113,12 @@ body {
 
 <div class="topnav">
   <a href="#"> Testimonials</a>
-  <a href="#"> Sponsors</a>
-  <a href="#"> Mission</a>
+  <a href="#"> Our Sponsors</a>
+  <a href="#"> Mission Statement</a>
   <a href="#"> Mayor Statement</a>
-  <a href="#" style="float:right">Apply</a>
+  <a href="#"> Apply to the Intern Program</a>
+  <a href="#"> FAQ</a>
+  <a href="#"> Contact us</a>
 </div>
 
 <div class="row">
@@ -134,14 +136,14 @@ body {
       <h5>Interested in sponsorship opportunities, contact Angela Shellene at The Reeds PRC at ashllene@thereedsprc.com or call 214-871-0783 </h5>
       <div class="img" style="height:200px;">Image</div>
       <p>A Grand Thank you to our sponsors</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>....</p>
     </div>
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h2>Mission</h2>
+      <h2>Mission Statement</h2>
       <div class="img" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <p> Empowering Youth to harness leadership skills through support from the community and experience from internships.</p>
     </div>
 </p>
     <div class="card">
@@ -154,9 +156,9 @@ body {
 
     <div class="card">
       <h3>Follow Us on Social Media</h3>
-      <p>Instagram : </p>
-      <p>Facebook : </p>
-      <p>LinkedIn : </p>
+      <p>Instagram : @dallasmifp </p>
+      <p>Facebook : dallasmifp</p>
+      <p>LinkedIn : Education Is Freedom</p>
     </div>
   </div>
 </div>
