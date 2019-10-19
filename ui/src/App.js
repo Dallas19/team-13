@@ -1,12 +1,9 @@
 import React from 'react'
 import './App.css'
+import InternApplication from './components/InternApplication'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header"></header>
-    </div>
-  )
+  return <InternApplication></InternApplication>
 }
 
 export default App
