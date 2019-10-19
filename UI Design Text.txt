@@ -1,0 +1,8 @@
+UI Design 
++ Using React
+1. Create mockups for Mayors Intern Program
+a. Matching Process
+b. Student & Company Ranking
+c. Matching transition to interview schedules
+d. Stats of satisifcation from students and companies
+e. Empty Slots? Filled up slots? Display which students are getting what jobs

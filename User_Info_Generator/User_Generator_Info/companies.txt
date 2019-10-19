@@ -1,0 +1,100 @@
+AT&t
+JPMorgan Chase
+Apple
+Google
+Microsoft
+Amazon
+Paycom
+ExxonMobil
+American Airlines
+Southwest Airlines
+Kimberly-Clark
+Texas Instruments
+D.R. Horton
+J.C. Penney
+GameStop
+Sally Beauty
+Cinemark
+AMC
+Fossil
+Match
+Pier 1
+Six Flags
+Dave & Busters
+Tyler Technologies
+FAST Technologies
+The Container Store
+Verizon
+Comcast
+Wingstop
+Tandy Leather
+Capital One
+Walmart
+Berkshire Hathaway
+CVS Health
+Chevron
+General Electric
+Walgreens
+Valero Energy
+Philips 66
+L3-Harris
+Boeing
+Wells Fargo
+Bank of America
+Dell
+State Farm Insurance
+IBM
+Target
+Home Depot
+Lowes
+UPS
+Intel
+MetLife
+FedEx
+PepsiCo
+HP
+Facebook
+Lockheed Martin
+Cisco
+Goldman Sachs
+Delta Airlines
+American Express
+Nationwide
+Best Buy
+Tyson Foods
+Oracle
+Allstate
+TJX
+Nike
+Publix
+3M
+Progressive
+Coca-Cola
+USAA
+Rite Aid
+Raytheon
+Kraft Heinz
+Sonic
+Mondelez International
+Macy's
+Qualcomm
+Starbucks
+Halliburton
+Aflac
+Tesla
+Whirlpool
+Visa
+Western Digital
+Sherwin-Williams
+Gap
+Netflix
+eBay
+PayPal
+Mastercard
+Kellogg
+Ralph Lauren
+NVIDIA
+AMD
+Corning
+Levi-Strauss
+Samsung
